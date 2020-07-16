@@ -8,8 +8,8 @@ if you are my frien yuo can call **Many**.
 
 ### Abouet me
 - 🔭 I am currently in the Platzi Master program.
-- My favorite field is  :tw-1f519: :tw-1f51a:
-- My two favorites languages are JavaScript y  :tw-1f40d:
+- My favorite field is backend!
+- My two favorites languages are JavaScript y :snake: 
 - ⚡ Fun fact: I don't know drive...
 
 ### Contact
@@ -17,7 +17,7 @@ if you are my frien yuo can call **Many**.
 - [Instagram](https://www.instagram.com/manyosorio_/)
 - [Twitter](https://twitter.com/emanuelosva)
 <!--
-**emanuelosva/emanuelosva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emanuelosva/emanuelosva** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
