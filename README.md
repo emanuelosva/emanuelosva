@@ -1,5 +1,21 @@
-### Hi there 👋
+# Emanuel Osorio @emanuelosva 
 
+
+### Hi !!! 👋
+I am a web developer by accident ...
+I'm actually a mechanical engineer but since I knew this world I was hooked and now it's part of my lifestyle.
+if you are my frien yuo can call **Many**.
+
+### Abouet me
+- 🔭 I am currently in the Platzi Master program.
+- My favorite field is  :tw-1f519: :tw-1f51a:
+- My two favorites languages are JavaScript y  :tw-1f40d:
+- ⚡ Fun fact: I don't know drive...
+
+### Contact
+- emanuelosva@gmail.com
+- [Instagram](https://www.instagram.com/manyosorio_/)
+- [Twitter](https://twitter.com/emanuelosva)
 <!--
 **emanuelosva/emanuelosva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
