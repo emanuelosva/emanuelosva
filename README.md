@@ -6,15 +6,19 @@ I'm actually a mechanical engineer but since I knew this world I was hooked and 
 if you are my friend you can call me **Many**. (..., always call me Many 😄)
 
 ### Abouet me
-- 🔭 I'm mechanical engineer.
+- 🔧 I'm mechanical engineer.
+- 💻 Web development conquered me
 - I am currently in the **Platzi Master Program**.
 - I prefer the backend side of the force.
-- ⚡ Fun fact: I don't know drive...
+- ⚡ Fun fact: I don't know how to drive cars but my emotions.
 
 ### My Stack (Favorite tools)
 <p align="center">
   <a href="https://expressjs.com/es/" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://user-images.githubusercontent.com/62397465/92801603-5f159b80-f37b-11ea-8b5b-01d05fd54d22.png" alt="express" height="56px" width="56px" />
+    <img align="center" src="https://user-images.githubusercontent.com/62397465/92801603-5f159b80-f37b-11ea-8b5b-01d05fd54d22.png" alt="Express Js" height="64px" width="80px" />
+  </a>
+  <a href="https://www.mongodb.com/es" target="blank" style="margin-right: 20px;">
+    <img align="center" src="https://user-images.githubusercontent.com/62397465/92804878-45298800-f37e-11ea-92cc-aa255a7b130b.png" alt="Mongo Db" height="64px" width="80px" />
   </a>
 </p>
 
