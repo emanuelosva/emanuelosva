@@ -20,12 +20,14 @@ if you are my friend you can call me **Many**. (..., always call me Many 😄)
 
 ### Contact
 
-<p align="center">
+<p>
   <a href="https://twitter.com/emanuelosva" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="32px" width="32px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="32px" width="32px" />
   </a>
+</p>
+<p>
    <a href="https://www.instagram.com/manyosorio_/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="32px" width="32px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="32px" width="32px" />
   </a>
 </p>
 
