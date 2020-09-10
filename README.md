@@ -1,5 +1,14 @@
 ![Hi 👋, I'm Emanuel Osorio, A passionate backend developer 👨‍💻 from CDMX, México 🇪🇸](https://user-images.githubusercontent.com/62397465/92796502-db59b000-f376-11ea-98e3-d64e08ad9d85.png)
 
+<p align="center">
+  <a href="https://twitter.com/emanuelosva" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+   <a href="https://www.instagram.com/manyosorio_/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+</p>
+
 ### Hi !!! 👋
 I am a web developer by accident ...
 I'm actually a mechanical engineer but since I knew this world I was hooked and now it's part of my lifestyle.
