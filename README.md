@@ -4,7 +4,7 @@
 ### Hi !!! 👋
 I am a web developer by accident ...
 I'm actually a mechanical engineer but since I knew this world I was hooked and now it's part of my lifestyle.
-if you are my frien yuo can call **Many**.
+if you are my friend yuo can call me **Many**. (..., always call me Many 😄)
 
 ### Abouet me
 - 🔭 I am currently in the Platzi Master program.
